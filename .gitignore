@@ -1,0 +1,12 @@
+# Ruang kerja Python & cache
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Rahasia (JANGAN PERNAH DIUNGGAH)
+.env
+
+# Cache lokal & hasil sementara
+.cache/
+*.log
