@@ -10,3 +10,7 @@ __pycache__/
 # Cache lokal & hasil sementara
 .cache/
 *.log
+
+# Gambar dataset lokal (bisa diunduh ulang lewat skrip eval/)
+data/golden_set/images/
+data/golden_set/corrupted/
